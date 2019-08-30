@@ -1,3 +1,3 @@
 # bees-flying-simulation
 Bees flying simulation application in java with Swing GUI
-![Screenshot](pic1.jpg)
+![Screenshot](https://github.com/mortrum/bees-flying-simulation/blob/master/pic1.JPG)
